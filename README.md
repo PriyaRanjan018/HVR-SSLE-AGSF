@@ -69,7 +69,8 @@ One new class. Two lines changed. Zero changes to loss or training.
 Each image shows: **Input → Baseline → Ours (AGSF) → Ground Truth**
 
 ![comparison](results/comparison/748.png)
-![comparison](results/comparison/547.png)
+![comparison](results/comparison/1.png)
+![comparison](results/comparison/146.png)
 
 *(See results/comparison/ folder)*
 
