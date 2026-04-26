@@ -98,7 +98,7 @@ pip install -r requirements.txt
 | File | Link |
 |------|------|
 | Baseline (HVR.safetensors) | [Original repo](https://github.com/dwchoo/HVR-SSLE) |
-| Improved (improved_best.pth) | [Google Drive](YOUR_DRIVE_LINK_HERE) |
+| Improved (improved_best.pth) | [Google Drive](https://drive.google.com/drive/folders/1jz58FPwFMrzMmhV49QhxPAHhYHGbfu_N?usp=drive_link) |
 
 ---
 
