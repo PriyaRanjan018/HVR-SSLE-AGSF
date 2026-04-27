@@ -87,7 +87,7 @@ docs/                  — Modification document + presentation
 ## Setup
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/HVR-SSLE-AGSF
+git clone https://github.com/PriyaRanjan018/HVR-SSLE-AGSF
 cd HVR-SSLE-AGSF
 pip install -r requirements.txt
 ```
